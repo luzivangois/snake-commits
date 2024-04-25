@@ -32,7 +32,7 @@ Entre no seu repositório (criado no Passo 1), clique em **Actions**
 Agora clique em "set up a workflow yourself →"
 > ![set-up-worklow](./.github/set-up-worklow.png)
 
-Na próxima janela o github ira criar um diretório chamado "workflows" e um arquivo "yml" chamado "main".
+Na próxima janela o github irá criar um diretório chamado "workflows" e um arquivo "yml" chamado "main".
 > ![arquivo-main](./.github/arquivo-main.png)
 
 O arquivo "main.yml" já será aberto em modo de edição, então agora você deve colar o código abaixo dentro do arquivo main e commitar ele:
