@@ -86,7 +86,7 @@ jobs:
 
 ### Passo 5:
 Dentro do diretório "workflows" (criado no Passo 4), clique na aba **Actions**, e sem seguinda na opção **generate animation**:
-> ![ga](./.github/ga.png)
+> ![generation-animation](./.github/generation-animation.png)
 
 Em seguinda clique no botão **Run workflow**:
 > ![run-workflow](./.github/run-workflow.png)
