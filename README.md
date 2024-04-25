@@ -91,5 +91,5 @@ Dentro do diretório "workflows" (criado no Passo 4), clique na aba **Actions**,
 Em seguinda clique no botão **Run workflow**:
 > ![run-workflow](./.github/run-workflow.png)
 
-### Isso deve fazer a sua animação funcionar 🐍
+### Siga esses 5 passos e a sua animação vai funcionar 🐍
 
