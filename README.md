@@ -3,6 +3,6 @@
 
 ### Passo 1:
 Caso ainda não tenha feito, crie um repositório com o exato mesmo nome do seu usuário
-> ![Exemplo]("./.github/usuario-usuario.png")
+> ![Exemplo](./.github/usuario-usuario.png)
 
 ### Passo 2:
