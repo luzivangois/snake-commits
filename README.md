@@ -6,3 +6,4 @@ Caso ainda não tenha feito, crie um repositório com o exato mesmo nome do seu 
 > ![Exemplo](./.github/usuario-usuario.png)
 
 ### Passo 2:
+Personalize o README do seu repositório criado no Passo 1
